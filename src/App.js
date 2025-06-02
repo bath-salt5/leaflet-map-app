@@ -1,52 +1,68 @@
 import React, { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
+import { MapContainer, TileLayer } from 'react-leaflet';
+import Boundary from './components/Boundaries';
 import 'leaflet/dist/leaflet.css';
+
+const availableYears = [2011, 2015, 2020, 2025];
 
 function App() {
   const position = [1.3521, 103.8198]; // Singapore
-  const [year, setYear] = useState('2020');
+  const [selectedYear, setSelectedYear] = useState(2025);
   const [geoData, setGeoData] = useState(null);
-  
+
   useEffect(() => {
-    fetch(`/data/${year}.geojson`)
-      .then((res) => res.json())
-      .then((data) => setGeoData(data))
-      .catch((err) => {
-        console.error(`Failed to load GeoJSON for ${year}:`, err);
+    const fetchData = async () => {
+    let yearToFetch = selectedYear;
+
+    if (!availableYears.includes(selectedYear)) {
+      // Find the closest past year
+      const pastYears = availableYears.filter((y) => y <= selectedYear);
+      if (pastYears.length === 0) {
+        // No available past year; handle accordingly
         setGeoData(null);
-      });
-  }, [year]);
+        return;
+      }
+      yearToFetch = Math.max(...pastYears);
+    }
+
+    try {
+      const res = await fetch(`/data/${yearToFetch}.geojson`);
+      const data = await res.json();
+      setGeoData(data);
+    } catch (error) {
+      console.error('Error fetching data:', error);
+      setGeoData(null);
+    }
+  };
+
+    fetchData();
+  }, [selectedYear]);
+
+  const handleSliderChange = (event) => {
+    setSelectedYear(parseInt(event.target.value, 10));
+  };
 
   return (
-    <div style={{justifyContent: 'center'}}>
-
-      <div style={{ marginBottom: '1rem' }}>
-        <label>
-          Select Year:&nbsp;
-          <select value={year} onChange={(e) => setYear(e.target.value)}>
-            <option value="2025">2025</option>
-            <option value="2020">2020</option>
-          </select>
-        </label>
+    <div style={{ justifyContent: 'center' }}>
+      <div style={{ width: '60%', margin: '0 auto', padding: '20px' }}>
+        <label htmlFor="yearSlider">Select Year: {selectedYear}</label>
+        <input
+          id="yearSlider"
+          type="range"
+          min="2010"
+          max="2025"
+          value={selectedYear}
+          onChange={handleSliderChange}
+          style={{ width: '100%' }}
+        />
       </div>
-
       <div style={{ height: '500px', width: '60%', margin: '0 auto', border: '2px solid #ccc' }}>
         <MapContainer center={position} zoom={11} style={{ height: '100%' }}>
           <TileLayer
             attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>'
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
-          {geoData && (
-            <GeoJSON
-              data={geoData}
-              style={{ color: 'blue', weight: 2, fillOpacity: 0.1 }}
-              onEachFeature={(feature, layer) => {
-                if (feature.properties?.name) {
-                  layer.bindPopup(`<strong>${feature.properties.name}</strong>`);
-                }
-              }}
-            />
-          )}
+          {geoData && <Boundary data={geoData} color="red" label="Boundaries" />}
         </MapContainer>
       </div>
     </div>
