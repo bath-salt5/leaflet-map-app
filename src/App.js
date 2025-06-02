@@ -3,7 +3,7 @@ import { MapContainer, TileLayer } from 'react-leaflet';
 import Boundary from './components/Boundaries';
 import 'leaflet/dist/leaflet.css';
 
-const availableYears = [2011, 2015, 2020, 2025];
+const availableYears = [2006, 2011, 2015, 2020, 2025];
 
 function App() {
   const position = [1.3521, 103.8198]; // Singapore
@@ -49,7 +49,7 @@ function App() {
         <input
           id="yearSlider"
           type="range"
-          min="2010"
+          min="2006"
           max="2025"
           value={selectedYear}
           onChange={handleSliderChange}
