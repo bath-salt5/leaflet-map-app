@@ -45,7 +45,7 @@ function App() {
   return (
     <div style={{ justifyContent: 'center' }}>
       <div style={{ width: '60%', margin: '0 auto', padding: '20px' }}>
-        <label htmlFor="yearSlider">Select Year: {selectedYear}</label>
+        <label htmlFor="yearSlider">Year: {selectedYear}</label>
         <input
           id="yearSlider"
           type="range"
