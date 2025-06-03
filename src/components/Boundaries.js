@@ -3,8 +3,8 @@ import { GeoJSON } from 'react-leaflet';
 
 const partyColors = {
   PAP: '#ffffff', // White
-  WP: '#1f77b4',  // Blue
-  SDA: '#d62728'
+  WP: '#0000ff',  // Blue
+  SDA: '#ff0000' // Red
 };
 
 const Boundary = ({ data, label = 'Boundary' }) => {
@@ -19,9 +19,8 @@ const Boundary = ({ data, label = 'Boundary' }) => {
         // Uncontested constituency
         fillOpacity = 0.8; // Lower opacity for uncontested areas
     } else {
-        const scaledPercentage = Math.pow((percentage - 50) / 25, 2); // Adjust the formula as needed
-        fillOpacity = 0.1 + scaledPercentage * 0.7;
-        fillOpacity = Math.min(fillOpacity, 0.8);
+        const scaledPercentage = Math.pow((percentage - 50) / 40, 2);
+        fillOpacity = 0.1 + Math.min(scaledPercentage, 1) * 0.7;
     }
     return {
       color: '#000000',     // Border color
