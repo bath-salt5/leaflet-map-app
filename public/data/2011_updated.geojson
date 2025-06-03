@@ -12,7 +12,6 @@
       "type": "Feature",
       "properties": {
         "Name": "RADIN MAS",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>RM</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>RADIN MAS</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>8E2B2D15A5D5C84B</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185700</td> </tr></table></center>",
         "ED_CODE": "RM",
         "INC_CRC": "8E2B2D15A5D5C84B",
         "FMEL_UPD_D": "20110302185700",
@@ -657,7 +656,6 @@
       "type": "Feature",
       "properties": {
         "Name": "MARINE PARADE",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>MA</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>MARINE PARADE</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>48CEE3816B196033</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "MA",
         "INC_CRC": "48CEE3816B196033",
         "FMEL_UPD_D": "20110302185705",
@@ -2097,7 +2095,6 @@
       "type": "Feature",
       "properties": {
         "Name": "MOULMEIN-KALLANG",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>MK</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>MOULMEIN-KALLANG</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>F97738CAC51A3252</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "MK",
         "INC_CRC": "F97738CAC51A3252",
         "FMEL_UPD_D": "20110302185705",
@@ -4162,7 +4159,6 @@
       "type": "Feature",
       "properties": {
         "Name": "JOO CHIAT",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>JC</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>JOO CHIAT</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>A979E1D4D41E0649</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "JC",
         "INC_CRC": "A979E1D4D41E0649",
         "FMEL_UPD_D": "20110302185705",
@@ -4607,7 +4603,6 @@
       "type": "Feature",
       "properties": {
         "Name": "WEST COAST",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>WE</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>WEST COAST</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>FCB8DF99D6999576</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "WE",
         "INC_CRC": "FCB8DF99D6999576",
         "FMEL_UPD_D": "20110302185705",
@@ -7017,7 +7012,6 @@
       "type": "Feature",
       "properties": {
         "Name": "TANJONG PAGAR",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>TP</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>TANJONG PAGAR</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>8E5D5E18BA582B1C</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "TP",
         "INC_CRC": "8E5D5E18BA582B1C",
         "FMEL_UPD_D": "20110302185705",
@@ -8903,7 +8897,6 @@
       "type": "Feature",
       "properties": {
         "Name": "WHAMPOA",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>WP</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>WHAMPOA</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>193B5BC2F114E3B3</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "WP",
         "INC_CRC": "193B5BC2F114E3B3",
         "FMEL_UPD_D": "20110302185705",
@@ -9288,7 +9281,6 @@
       "type": "Feature",
       "properties": {
         "Name": "POTONG PASIR",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>PS</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>POTONG PASIR</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>653E9FDA6F65DD81</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "PS",
         "INC_CRC": "653E9FDA6F65DD81",
         "FMEL_UPD_D": "20110302185705",
@@ -9878,7 +9870,6 @@
       "type": "Feature",
       "properties": {
         "Name": "HONG KAH NORTH",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>HN</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>HONG KAH NORTH</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>01C39383CFCB8371</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "HN",
         "INC_CRC": "01C39383CFCB8371",
         "FMEL_UPD_D": "20110302185705",
@@ -11043,7 +11034,6 @@
       "type": "Feature",
       "properties": {
         "Name": "YUHUA",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>YH</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>YUHUA</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>FC2A896E6E21FDED</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "YH",
         "INC_CRC": "FC2A896E6E21FDED",
         "FMEL_UPD_D": "20110302185705",
@@ -11558,7 +11548,6 @@
       "type": "Feature",
       "properties": {
         "Name": "TAMPINES",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>TM</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>TAMPINES</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>102E25C2C18ABD26</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "TM",
         "INC_CRC": "102E25C2C18ABD26",
         "FMEL_UPD_D": "20110302185705",
@@ -12168,7 +12157,6 @@
       "type": "Feature",
       "properties": {
         "Name": "EAST COAST",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>EC</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>EAST COAST</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>21639CF0771F1F68</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "EC",
         "INC_CRC": "21639CF0771F1F68",
         "FMEL_UPD_D": "20110302185705",
@@ -13278,7 +13266,6 @@
       "type": "Feature",
       "properties": {
         "Name": "BISHAN-TOA PAYOH",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>BS</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>BISHAN-TOA PAYOH</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>B30D614A16086E2C</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "BS",
         "INC_CRC": "B30D614A16086E2C",
         "FMEL_UPD_D": "20110302185705",
@@ -14713,7 +14700,6 @@
       "type": "Feature",
       "properties": {
         "Name": "ANG MO KIO",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>AM</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>ANG MO KIO</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>8D9DEA77B5F0C466</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "AM",
         "INC_CRC": "8D9DEA77B5F0C466",
         "FMEL_UPD_D": "20110302185705",
@@ -16858,7 +16844,6 @@
       "type": "Feature",
       "properties": {
         "Name": "HOUGANG",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>HG</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>HOUGANG</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>4CF75C2ED73557A7</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "HG",
         "INC_CRC": "4CF75C2ED73557A7",
         "FMEL_UPD_D": "20110302185705",
@@ -17298,7 +17283,6 @@
       "type": "Feature",
       "properties": {
         "Name": "PASIR RIS-PUNGGOL",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>PN</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>PASIR RIS-PUNGGOL</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>197F19B453F03939</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "PN",
         "INC_CRC": "197F19B453F03939",
         "FMEL_UPD_D": "20110302185705",
@@ -18713,7 +18697,6 @@
       "type": "Feature",
       "properties": {
         "Name": "ALJUNIED",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>AJ</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>ALJUNIED</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>3312D436FE25BD4E</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "AJ",
         "INC_CRC": "3312D436FE25BD4E",
         "FMEL_UPD_D": "20110302185705",
@@ -20683,7 +20666,6 @@
       "type": "Feature",
       "properties": {
         "Name": "BUKIT PANJANG",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>BP</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>BUKIT PANJANG</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>35FFF844CF3301D7</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "BP",
         "INC_CRC": "35FFF844CF3301D7",
         "FMEL_UPD_D": "20110302185705",
@@ -21053,7 +21035,6 @@
       "type": "Feature",
       "properties": {
         "Name": "PUNGGOL EAST",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>PE</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>PUNGGOL EAST</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>356BEE0E09D40F3B</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "PE",
         "INC_CRC": "356BEE0E09D40F3B",
         "FMEL_UPD_D": "20110302185705",
@@ -21403,7 +21384,6 @@
       "type": "Feature",
       "properties": {
         "Name": "SENGKANG WEST",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>SW</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>SENGKANG WEST</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>48191D737EE36985</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "SW",
         "INC_CRC": "48191D737EE36985",
         "FMEL_UPD_D": "20110302185705",
@@ -21913,7 +21893,6 @@
       "type": "Feature",
       "properties": {
         "Name": "CHUA CHU KANG",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>CK</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>CHUA CHU KANG</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>1019DBCF8388C457</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "CK",
         "INC_CRC": "1019DBCF8388C457",
         "FMEL_UPD_D": "20110302185705",
@@ -24738,7 +24717,6 @@
       "type": "Feature",
       "properties": {
         "Name": "NEE SOON",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>NS</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>NEE SOON</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>EDD2E7DFCB3551CD</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "NS",
         "INC_CRC": "EDD2E7DFCB3551CD",
         "FMEL_UPD_D": "20110302185705",
@@ -26028,7 +26006,6 @@
       "type": "Feature",
       "properties": {
         "Name": "HOLLAND-BUKIT TIMAH",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>HT</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>HOLLAND-BUKIT TIMAH</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>8DD6266BE3C75EE4</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "HT",
         "INC_CRC": "8DD6266BE3C75EE4",
         "FMEL_UPD_D": "20110302185705",
@@ -29835,7 +29812,6 @@
       "type": "Feature",
       "properties": {
         "Name": "SEMBAWANG",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>SB</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>SEMBAWANG</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>A64BE7601953CD45</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "SB",
         "INC_CRC": "A64BE7601953CD45",
         "FMEL_UPD_D": "20110302185705",
@@ -31190,7 +31166,6 @@
       "type": "Feature",
       "properties": {
         "Name": "MOUNTBATTEN",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>MB</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>MOUNTBATTEN</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>FD68F058C8F92F4C</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "MB",
         "INC_CRC": "FD68F058C8F92F4C",
         "FMEL_UPD_D": "20110302185705",
@@ -32150,7 +32125,6 @@
       "type": "Feature",
       "properties": {
         "Name": "PIONEER",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>PI</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>PIONEER</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>06B1F354BB297543</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "PI",
         "INC_CRC": "06B1F354BB297543",
         "FMEL_UPD_D": "20110302185705",
@@ -32600,7 +32574,6 @@
       "type": "Feature",
       "properties": {
         "Name": "JURONG",
-        "Description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\"> <th>ED_CODE</th> <td>JR</td> </tr><tr bgcolor=\"\"> <th>ED_DESC</th> <td>JURONG</td> </tr><tr bgcolor=\"#E3E3F3\"> <th>INC_CRC</th> <td>AC0E84D971DD33E5</td> </tr><tr bgcolor=\"\"> <th>FMEL_UPD_D</th> <td>20110302185705</td> </tr></table></center>",
         "ED_CODE": "JR",
         "INC_CRC": "AC0E84D971DD33E5",
         "FMEL_UPD_D": "20110302185705",

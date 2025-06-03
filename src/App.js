@@ -26,7 +26,7 @@ function App() {
     }
 
     try {
-      const res = await fetch(`/data/${yearToFetch}.geojson`);
+      const res = await fetch(`/data/${yearToFetch}_updated.geojson`);
       const data = await res.json();
       setGeoData(data);
     } catch (error) {
