@@ -1,11 +1,6 @@
 import { createRoot } from 'react-dom/client';
 import { GeoJSON } from 'react-leaflet';
-
-const partyColors = {
-  PAP: '#ffffff', // White
-  WP: '#0000ff',  // Blue
-  SDA: '#ff0000' // Red
-};
+import { partyColors } from './consts';
 
 const Boundary = ({ data, label = 'Boundary' }) => {
   if (!data) return null;

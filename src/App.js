@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { MapContainer, TileLayer } from 'react-leaflet';
 import Boundary from './components/Boundaries';
+import Legend from './components/Legend';
+import './components/Legend.css';
+import { colours } from './components/consts';
 import 'leaflet/dist/leaflet.css';
 
 const availableYears = [2006, 2011, 2015, 2020, 2025];
@@ -56,15 +59,20 @@ function App() {
           style={{ width: '100%' }}
         />
       </div>
-      <div style={{ height: '500px', width: '60%', margin: '0 auto', border: '2px solid #ccc' }}>
-        <MapContainer center={position} zoom={11} style={{ height: '100%' }}>
-          <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>'
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          />
-          {geoData && <Boundary data={geoData} color="red" label="Boundaries" />}
-        </MapContainer>
+      <div style={{ display: 'flex', width: '80%', margin: '0 auto' }}>
+        <div style={{ height: '500px', border: '2px solid #ccc', flex: 1 }}>
+          <MapContainer center={position} zoom={11} style={{ height: '100%' }}>
+            <TileLayer
+              attribution='&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a>'
+              url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            />
+            {geoData && <Boundary data={geoData} label="Boundaries" />}
+          </MapContainer>
+        </div>
+        <Legend items={colours} style={{ alignSelf: 'flex-start' }} />
       </div>
+
+      
     </div>
   );
 }
