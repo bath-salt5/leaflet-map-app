@@ -17,11 +17,11 @@ const Boundary = ({ data, label = 'Boundary' }) => {
     const percentage = feature.properties?.Percentage;
     if (percentage === 0) {
         // Uncontested constituency
-        fillOpacity = 1; // Lower opacity for uncontested areas
+        fillOpacity = 0.8; // Lower opacity for uncontested areas
     } else {
-        const scaledPercentage = Math.pow((percentage - 50) / 30, 2); // Adjust the formula as needed
-        fillOpacity = 0.3 + scaledPercentage * 0.7;
-        fillOpacity = Math.min(fillOpacity, 1.0);
+        const scaledPercentage = Math.pow((percentage - 50) / 25, 2); // Adjust the formula as needed
+        fillOpacity = 0.1 + scaledPercentage * 0.7;
+        fillOpacity = Math.min(fillOpacity, 0.8);
     }
     return {
       color: '#000000',     // Border color
