@@ -14,7 +14,7 @@ const Boundary = ({ data, label = 'Boundary' }) => {
         // Uncontested constituency
         fillOpacity = 0.8; // Lower opacity for uncontested areas
     } else {
-        const scaledPercentage = Math.pow((percentage - 50) / 40, 2);
+        const scaledPercentage = Math.pow((percentage - 50) / 32, 2);
         fillOpacity = 0.1 + Math.min(scaledPercentage, 1) * 0.7;
     }
     return {
