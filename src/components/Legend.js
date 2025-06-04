@@ -8,7 +8,7 @@ const Legend = ({ items, style }) => {
         <div key={index} className="legend-item">
           <div
             className="box"
-            style={{ backgroundColor: item.color }}
+            style={{ background: `linear-gradient(to right, #808080, ${item.color})` }}
           ></div>
           <span className="legend-label">{item.label}</span>
         </div>
