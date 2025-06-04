@@ -7,7 +7,7 @@ Display electoral boundaries of sg over the years
 - [x] Display electoral boundaries over time with slider
 - [x] Tooltip with winning party and %
 - [x] Gradient colour based on % of votes
-- [] Find electoral boundaries for past years beyond 2006
+- [ ] Find electoral boundaries for past years beyond 2006
 
 # Getting Started with Create React App
 
