@@ -1,9 +1,17 @@
+# Description
+## Purpose
+Display electoral boundaries of sg over the years
+
+## To-Do List/Things added
+[x] Display Map
+[x] Display electoral boundaries over time with slider
+[x] Tooltip with winning party and %
+[x] Gradient colour based on % of votes
+[] Find electoral boundaries for past years beyond 2006
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Purpose:
-Display electoral boundaries over the years?
 
 ## Available Scripts
 
