@@ -3,7 +3,7 @@ import React from 'react';
 const Legend = ({ items, style }) => {
   return (
     <div className="legend" style={style}>
-      <p>Legend<br></br> Grey = 50%</p>
+      <p>Legend<br></br> White = 50%</p>
       {items.map((item, index) => (
         <div key={index} className="legend-item">
           <div
