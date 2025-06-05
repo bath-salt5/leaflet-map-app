@@ -1,11 +1,11 @@
 export const partyColors = {
-  PAP: '#ffffff', // White
+  PAP: '#ff0000', // White
   WP: '#0000ff',  // Blue
-  SDA: '#ff0000' // Red
+  SDA: '#aaff00' // Red
 };
 
 export const colours = [
-    { label: 'PAP', color: '#ffffff' },
+    { label: 'PAP', color: '#ff0000' },
     { label: 'WP', color: '#0000ff' },
-    { label: 'SDA', color: '#ff0000' },
+    { label: 'SDA', color: '#aaff00' },
   ];

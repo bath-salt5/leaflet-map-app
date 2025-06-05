@@ -3,12 +3,12 @@ import React from 'react';
 const Legend = ({ items, style }) => {
   return (
     <div className="legend" style={style}>
-      <p>Legend</p>
+      <p>Legend<br></br> Grey = 50%</p>
       {items.map((item, index) => (
         <div key={index} className="legend-item">
           <div
             className="box"
-            style={{ background: `linear-gradient(to right, #808080, ${item.color})` }}
+            style={{ background: `linear-gradient(to right, #ffffff, ${item.color})` }}
           ></div>
           <span className="legend-label">{item.label}</span>
         </div>

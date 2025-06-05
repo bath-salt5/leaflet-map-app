@@ -1,30 +1,16 @@
 import { createRoot } from 'react-dom/client';
 import { GeoJSON } from 'react-leaflet';
 import { partyColors } from './consts';
-import { hexToRgb, rgbToHsl, hslToRgb, rgbToHex} from './conversion';
+import { hexToRgb, rgbToHex} from './conversion';
 
-function convertColor(partyColor, percentage, partyName) {
+function convertColor(partyColor, percentage) {
   if (!partyColor) return '#808080';
-  
-  // Special handling for white party
-  if (partyName === 'PAP') {
-    // Gray (30% lightness) at 50% votes → White (100% lightness) at 82% votes
-    const lightness = 30 + ((percentage - 50) / 32) * 70;
-    return `hsl(0, 0%, ${Math.min(Math.max(lightness, 30), 100)}%)`;
-  }
-  
-  // Normal color handling for other parties
-  const minLightness = 30;
-  const maxLightness = 85;
-  const lightness = maxLightness - ((percentage - 50) / 32) * (maxLightness - minLightness);
-  
-  const rgb = hexToRgb(partyColor);
-  if (!rgb) return partyColor;
-  
-  const { h, s } = rgbToHsl(rgb.r, rgb.g, rgb.b);
-  const newRgb = hslToRgb(h, s, Math.min(Math.max(lightness, minLightness), maxLightness));
-  
-  return rgbToHex(newRgb.r, newRgb.g, newRgb.b);
+  const rgbParty = hexToRgb(partyColor);
+  const t = Math.min((percentage - 50) / 32, 1);
+  const r = Math.round(255 + t * (rgbParty.r - 255));
+  const g = Math.round(255 + t * (rgbParty.g - 255));
+  const b = Math.round(255 + t * (rgbParty.b - 255));
+  return rgbToHex(r, g, b);
 }
 
 const Boundary = ({ data, label = 'Boundary' }) => {
@@ -41,7 +27,7 @@ const Boundary = ({ data, label = 'Boundary' }) => {
     
     // Calculate fill color and opacity
     if (percentage > 0){
-        fillColor = convertColor(baseColor, percentage, party);
+        fillColor = convertColor(baseColor, percentage);
         fillOpacity = 0.3 + (Math.min(Math.max(percentage, 50), 82) - 50) / 32 * 0.7;;
     }
     
