@@ -11,6 +11,7 @@ const availableYears = [2006, 2011, 2015, 2020, 2025];
 function App() {
   const position = [1.3521, 103.8198]; // Singapore
   const [selectedYear, setSelectedYear] = useState(2025);
+  const [yearidx, setYearIdx] = useState(4);
   const [geoData, setGeoData] = useState(null);
 
   useEffect(() => {
@@ -27,7 +28,9 @@ function App() {
       }
       yearToFetch = Math.max(...pastYears);
     }
-
+    if(yearToFetch !== availableYears[yearidx]){
+        setYearIdx(availableYears.findIndex(y => y === yearToFetch));
+    }
     try {
       const res = await fetch(`/data/${yearToFetch}_updated.geojson`);
       const data = await res.json();
@@ -39,7 +42,7 @@ function App() {
   };
 
     fetchData();
-  }, [selectedYear]);
+  }, [selectedYear, yearidx]);
 
   const handleSliderChange = (event) => {
     setSelectedYear(parseInt(event.target.value, 10));
@@ -48,7 +51,7 @@ function App() {
   return (
     <div style={{ justifyContent: 'center' }}>
       <div style={{ width: '60%', margin: '0 auto', padding: '20px' }}>
-        <label htmlFor="yearSlider">Year: {selectedYear}</label>
+        <label htmlFor="yearSlider">Year: {selectedYear} (Electoral boundaries from {availableYears[yearidx]})</label>
         <input
           id="yearSlider"
           type="range"

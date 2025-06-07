@@ -3,9 +3,9 @@ import json
 
 # Load election results from CSV
 i = 0
-results = ['2006_results.csv']
-# ,'2011_results.csv', '2015_results.csv', '2020_results.csv', '2025_results.csv'
-boundaries = ['2006_2.geojson']
+results = ['2006_results.csv', '2011_results.csv', '2015_results.csv', '2020_results.csv', '2025_results.csv']
+# 
+boundaries = ['2006_2.geojson', '2011_2.geojson', '2015_2.geojson', '2020.geojson', '2025.geojson']
 # , '2011_2.geojson', '2015_2.geojson', '2020.geojson', '2025.geojson'
 for result in results: 
     election_results = {}

@@ -17,8 +17,10 @@
         "Name": "JURONG EAST-BUKIT BATOK",
         "NEW_ED": "JE",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Grace Fu Hai Yien, Hoe Teck Chye, David, Lee Hong Chuang, Murali Pillai, Rahayu Binte Mahzam",
         "Votes": 99345,
-        "Percentage": 76.66
+        "Percentage": 76.66,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -1661,8 +1663,10 @@
         "Name": "WEST COAST-JURONG WEST",
         "NEW_ED": "WJ",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Ang Wei Neng, Hamid Razak, Shawn Huang Wei Zhong, Cassandra Lee Shi Wee, Desmond Lee Ti-Seng",
         "Votes": 88347,
-        "Percentage": 60.01
+        "Percentage": 60.01,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19303,8 +19307,10 @@
         "Name": "KEBUN BARU",
         "NEW_ED": "KR",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Kwek Hian Chuan",
         "Votes": 13721,
-        "Percentage": 68.5
+        "Percentage": 68.5,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -20475,8 +20481,10 @@
         "Name": "YIO CHU KANG",
         "NEW_ED": "YK",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Yip Hon Weng",
         "Votes": 17992,
-        "Percentage": 78.73
+        "Percentage": 78.73,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -20959,8 +20967,10 @@
         "Name": "QUEENSTOWN",
         "NEW_ED": "QT",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Eric Chua Swee Leong",
         "Votes": 20900,
-        "Percentage": 81.12
+        "Percentage": 81.12,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -21383,8 +21393,10 @@
         "Name": "TANJONG PAGAR",
         "NEW_ED": "TP",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Chan Chun Sing, Foo Cexiang, Joan Pereira, Rachel Ong, Alvin Tan",
         "Votes": 98152,
-        "Percentage": 81.03
+        "Percentage": 81.03,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -24819,8 +24831,10 @@
         "Name": "RADIN MAS",
         "NEW_ED": "RM",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Melvin Yong Yik Chye",
         "Votes": 15801,
-        "Percentage": 69.17
+        "Percentage": 69.17,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33185,8 +33199,10 @@
         "Name": "POTONG PASIR",
         "NEW_ED": "PS",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Alex Yeo Sheng Chye",
         "Votes": 19185,
-        "Percentage": 69.18
+        "Percentage": 69.18,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -33649,8 +33665,10 @@
         "Name": "PUNGGOL",
         "NEW_ED": "PG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Gan Kim Yong, Janil Puthucheary, Sun Xueling, Yeo Wan Ling",
         "Votes": 63589,
-        "Percentage": 55.17
+        "Percentage": 55.17,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -34825,8 +34843,10 @@
         "Name": "JALAN KAYU",
         "NEW_ED": "JK",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Ng Chee Meng",
         "Votes": 14113,
-        "Percentage": 51.47
+        "Percentage": 51.47,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -37231,8 +37251,10 @@
         "Name": "ALJUNIED",
         "NEW_ED": "AJ",
         "Winning_Party": "WP",
+        "Candidate(s)": "Fadli Fawzi, Gerald Giam Yean Song, Sylvia Lim Swee Lian, Pritam Singh, Kenneth Tiong Boon Kiat",
         "Votes": 78847,
-        "Percentage": 59.68
+        "Percentage": 59.68,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -38971,8 +38993,10 @@
         "Name": "ANG MO KIO",
         "NEW_ED": "AM",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Darryl David, Jasmin Lau, Lee Hsien Loong, Victor Lye, Nadia Ahmad Samdin",
         "Votes": 115209,
-        "Percentage": 78.95
+        "Percentage": 78.95,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -40147,8 +40171,10 @@
         "Name": "BUKIT GOMBAK",
         "NEW_ED": "BG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Low Yen Ling",
         "Votes": 17826,
-        "Percentage": 75.83
+        "Percentage": 75.83,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -40779,8 +40805,10 @@
         "Name": "CHUA CHU KANG",
         "NEW_ED": "CK",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Choo Pei Ling, Jeffrey Siow, Tan See Leng, Zhulkarnain Abdul Rahim",
         "Votes": 55000,
-        "Percentage": 63.59
+        "Percentage": 63.59,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46081,8 +46109,10 @@
         "Name": "HOLLAND-BUKIT TIMAH",
         "NEW_ED": "HT",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Edward Chia Bing Hui, Christopher De Souza, Sim Ann, Vivian Balakrishnan",
         "Votes": 86384,
-        "Percentage": 79.29
+        "Percentage": 79.29,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -49843,8 +49873,10 @@
         "Name": "JURONG CENTRAL",
         "NEW_ED": "JU",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Xie Yao Quan",
         "Votes": 21884,
-        "Percentage": 80.51
+        "Percentage": 80.51,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -50131,8 +50163,10 @@
         "Name": "JALAN BESAR",
         "NEW_ED": "JB",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Shawn Loh Shou-En, Denise Phua Lay Peng, Mrs Josephine Teo, Wan Rizal",
         "Votes": 70345,
-        "Percentage": 75.21
+        "Percentage": 75.21,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54263,8 +54297,10 @@
         "Name": "PIONEER",
         "NEW_ED": "PI",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Patrick Tay Teck Guan",
         "Votes": 15323,
-        "Percentage": 65.42
+        "Percentage": 65.42,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -54635,8 +54671,10 @@
         "Name": "MARYMOUNT",
         "NEW_ED": "MR",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Gan Siow Huang",
         "Votes": 14868,
-        "Percentage": 70.7
+        "Percentage": 70.7,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -55011,8 +55049,10 @@
         "Name": "BISHAN-TOA PAYOH",
         "NEW_ED": "BS",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Cai Yinzhou, Chee Hong Tat, Elysa Chen, Saktiandi Supaat",
         "Votes": 66137,
-        "Percentage": 75.21
+        "Percentage": 75.21,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -56627,8 +56667,10 @@
         "Name": "HOUGANG",
         "NEW_ED": "HG",
         "Winning_Party": "WP",
+        "Candidate(s)": "Dennis Tan Lip Fong",
         "Votes": 16900,
-        "Percentage": 62.17
+        "Percentage": 62.17,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -57035,8 +57077,10 @@
         "Name": "BUKIT PANJANG",
         "NEW_ED": "BP",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Liang Eng Hwa",
         "Votes": 19116,
-        "Percentage": 61.41
+        "Percentage": 61.41,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -57379,8 +57423,10 @@
         "Name": "SENGKANG",
         "NEW_ED": "SK",
         "Winning_Party": "WP",
+        "Candidate(s)": "Abdul Muhaimin Bin Abdul Malik, Chua Kheng Wee Louis, He Ting Ru, Jamus Jerome Lim Chee Wui",
         "Votes": 66383,
-        "Percentage": 56.31
+        "Percentage": 56.31,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -57839,8 +57885,10 @@
         "Name": "MARSILING-YEW TEE",
         "NEW_ED": "MY",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Hany Soh Hui Bin, Lawrence Wong, Alex Yam Ziming, Zaqy Mohamad",
         "Votes": 80890,
-        "Percentage": 73.46
+        "Percentage": 73.46,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -59711,8 +59759,10 @@
         "Name": "NEE SOON",
         "NEW_ED": "NS",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Goh Hanyan, K. Shanmugam, Jackson Lam Weiliang, Lee Hui Ying, Syed Harun Alhabsyi",
         "Votes": 102744,
-        "Percentage": 73.81
+        "Percentage": 73.81,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62769,8 +62819,10 @@
         "Name": "SEMBAWANG WEST",
         "NEW_ED": "SE",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Poh Li San",
         "Votes": 11978,
-        "Percentage": 53.19
+        "Percentage": 53.19,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -63045,8 +63097,10 @@
         "Name": "TAMPINES CHANGKAT",
         "NEW_ED": "TC",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Desmond Choo Pey Ching",
         "Votes": 12441,
-        "Percentage": 56.17
+        "Percentage": 56.17,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -63461,8 +63515,10 @@
         "Name": "MOUNTBATTEN",
         "NEW_ED": "MB",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Gho Sze Kee",
         "Votes": 12507,
-        "Percentage": 63.84
+        "Percentage": 63.84,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -64749,8 +64805,10 @@
         "Name": "SEMBAWANG",
         "NEW_ED": "SB",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Lam Yen Li, Gabriel, Mariam Jaafar, Ng Shi Xuan, Ong Ye Kung, Vikram Nair",
         "Votes": 83946,
-        "Percentage": 67.75
+        "Percentage": 67.75,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -66669,8 +66727,10 @@
         "Name": "EAST COAST",
         "NEW_ED": "EC",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Dinesh Vasu Dash, Hazlina Binte Abdul Halim, Tan Kiat How, Tan Soon Neo Jessica, Tong Chun Fai Edwin Charles",
         "Votes": 79664,
-        "Percentage": 58.76
+        "Percentage": 58.76,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -69437,6 +69497,7 @@
         "Name": "MARINE PARADE-BRADDELL HEIGHTS",
         "NEW_ED": "MH",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Goh Pei Ming, Muhammad Faishal Ibrahim, Diana Pang Li Yen, Seah Kian Peng, Tin Pei Ling",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -71054,8 +71115,10 @@
         "Name": "TAMPINES",
         "NEW_ED": "TM",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Baey Yam Keng, Charlene Chen Yijun, Koh Poh Koon, Masagos Zulkifli, David Neo Chin Wee",
         "Votes": 71423,
-        "Percentage": 52.02
+        "Percentage": 52.02,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -71722,8 +71785,10 @@
         "Name": "PASIR RIS-CHANGI",
         "NEW_ED": "PC",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Indranee Rajah, Valerie Lee, Sharael Taha, Desmond Tan",
         "Votes": 60887,
-        "Percentage": 67.66
+        "Percentage": 67.66,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",

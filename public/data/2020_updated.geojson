@@ -17,8 +17,10 @@
         "FID": 0,
         "Field_1": "RADIN MAS",
         "Winning_Party": "PAP",
+        "Candidate(s)": "MELVIN YONG YIK CHYE",
         "Votes": 16864,
-        "Percentage": 74.01
+        "Percentage": 74.01,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -563,8 +565,10 @@
         "FID": 1,
         "Field_1": "MOUNTBATTEN",
         "Winning_Party": "PAP",
+        "Candidate(s)": "LIM BIOW CHUAN",
         "Votes": 16285,
-        "Percentage": 73.82
+        "Percentage": 73.82,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1853,8 +1857,10 @@
         "FID": 2,
         "Field_1": "TANJONG PAGAR",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHAN CHUN SING, ERIC CHUA SWEE LEONG, INDRANEE THURAI RAJAH, JOAN PEREIRA, ALVIN TAN SHENG HUI",
         "Votes": 78330,
-        "Percentage": 63.1
+        "Percentage": 63.1,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4083,8 +4089,10 @@
         "FID": 3,
         "Field_1": "JALAN BESAR",
         "Winning_Party": "PAP",
+        "Candidate(s)": "HENG CHEE HOW, DENISE PHUA LAY PENG, JOSEPHINE TEO, WAN RIZAL",
         "Votes": 64631,
-        "Percentage": 65.36
+        "Percentage": 65.36,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8191,8 +8199,10 @@
         "FID": 4,
         "Field_1": "MACPHERSON",
         "Winning_Party": "PAP",
+        "Candidate(s)": "TIN PEI LING",
         "Votes": 19009,
-        "Percentage": 71.74
+        "Percentage": 71.74,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8517,8 +8527,10 @@
         "FID": 5,
         "Field_1": "PIONEER",
         "Winning_Party": "PAP",
+        "Candidate(s)": "PATRICK TAY TECK GUAN",
         "Votes": 14593,
-        "Percentage": 62.0
+        "Percentage": 62.0,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8891,8 +8903,10 @@
         "FID": 6,
         "Field_1": "POTONG PASIR",
         "Winning_Party": "PAP",
+        "Candidate(s)": "SITOH YIH PIN",
         "Votes": 11264,
-        "Percentage": 60.67
+        "Percentage": 60.67,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9357,8 +9371,10 @@
         "FID": 7,
         "Field_1": "YUHUA",
         "Winning_Party": "PAP",
+        "Candidate(s)": "GRACE FU HAI YIEN",
         "Votes": 14131,
-        "Percentage": 70.54
+        "Percentage": 70.54,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9835,8 +9851,10 @@
         "FID": 8,
         "Field_1": "BUKIT BATOK",
         "Winning_Party": "PAP",
+        "Candidate(s)": "MURALI PILLAI",
         "Votes": 15500,
-        "Percentage": 54.8
+        "Percentage": 54.8,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10241,8 +10259,10 @@
         "FID": 9,
         "Field_1": "JURONG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "HUANG WEI ZHONG SHAWN, RAHAYU BINTE MAHZAM, TAN WU MENG, THARMAN SHANMUGARATNAM, XIE YAO QUAN",
         "Votes": 91846,
-        "Percentage": 74.61
+        "Percentage": 74.61,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12171,8 +12191,10 @@
         "FID": 10,
         "Field_1": "MARINE PARADE",
         "Winning_Party": "PAP",
+        "Candidate(s)": "MOHD FAHMI ALIMAN, SEAH KIAN PENG, TAN CHUAN-JIN, TAN SEE LENG, EDWIN TONG CHUN FAI",
         "Votes": 75203,
-        "Percentage": 57.74
+        "Percentage": 57.74,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14521,8 +14543,10 @@
         "FID": 11,
         "Field_1": "WEST COAST",
         "Winning_Party": "PAP",
+        "Candidate(s)": "ANG WEI NENG, FOO MEE HAR, DESMOND LEE TI-SENG, RACHEL ONG SIN YEN, S ISWARAN",
         "Votes": 71658,
-        "Percentage": 51.68
+        "Percentage": 51.68,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41001,8 +41025,10 @@
         "FID": 12,
         "Field_1": "MARYMOUNT",
         "Winning_Party": "PAP",
+        "Candidate(s)": "GAN SIOW HUANG",
         "Votes": 12173,
-        "Percentage": 55.04
+        "Percentage": 55.04,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41379,8 +41405,10 @@
         "FID": 13,
         "Field_1": "BISHAN-TOA PAYOH",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHEE HONG TAT, CHONG KEE HIONG, NG ENG HEN, SAKTIANDI BIN SUPAAT",
         "Votes": 62983,
-        "Percentage": 67.23
+        "Percentage": 67.23,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42981,8 +43009,10 @@
         "FID": 14,
         "Field_1": "HOUGANG",
         "Winning_Party": "WP",
+        "Candidate(s)": "DENNIS TAN LIP FONG",
         "Votes": 15451,
-        "Percentage": 61.21
+        "Percentage": 61.21,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43391,8 +43421,10 @@
         "FID": 15,
         "Field_1": "HONG KAH NORTH",
         "Winning_Party": "PAP",
+        "Candidate(s)": "AMY KHOR LEAN SUAN",
         "Votes": 16347,
-        "Percentage": 60.99
+        "Percentage": 60.99,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44065,8 +44097,10 @@
         "FID": 16,
         "Field_1": "TAMPINES",
         "Winning_Party": "PAP",
+        "Candidate(s)": "BAEY YAM KENG, CHENG LI HUI, DESMOND CHOO PEY CHING, KOH POH KOON, MASAGOS ZULKIFLI",
         "Votes": 94668,
-        "Percentage": 66.41
+        "Percentage": 66.41,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44775,8 +44809,10 @@
         "FID": 17,
         "Field_1": "ALJUNIED",
         "Winning_Party": "WP",
+        "Candidate(s)": "GERALD GIAM YEAN SONG, SYLVIA LIM, MUHAMAD FAISAL BIN ABDUL MANAP, LEON PERERA, PRITAM SINGH",
         "Votes": 85815,
-        "Percentage": 59.95
+        "Percentage": 59.95,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46589,8 +46625,10 @@
         "FID": 18,
         "Field_1": "BUKIT PANJANG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "LIANG ENG HWA",
         "Votes": 18085,
-        "Percentage": 53.73
+        "Percentage": 53.73,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46931,8 +46969,10 @@
         "FID": 19,
         "Field_1": "YIO CHU KANG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "YIP HON WENG",
         "Votes": 14775,
-        "Percentage": 60.82
+        "Percentage": 60.82,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47369,8 +47409,10 @@
         "FID": 20,
         "Field_1": "SENGKANG",
         "Winning_Party": "WP",
+        "Candidate(s)": "CHUA KHENG WEE, HE TING RU, JAMUS JEROME LIM, RAEESAH BEGUM BINTE FARID KHAN",
         "Votes": 60217,
-        "Percentage": 52.12
+        "Percentage": 52.12,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47823,8 +47865,10 @@
         "FID": 21,
         "Field_1": "KEBUN BARU",
         "Winning_Party": "PAP",
+        "Candidate(s)": "KWEK HIAN CHUAN",
         "Votes": 13309,
-        "Percentage": 62.92
+        "Percentage": 62.92,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48953,8 +48997,10 @@
         "FID": 22,
         "Field_1": "PUNGGOL WEST",
         "Winning_Party": "PAP",
+        "Candidate(s)": "SUN XUELING",
         "Votes": 15655,
-        "Percentage": 60.98
+        "Percentage": 60.98,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49359,8 +49405,10 @@
         "FID": 23,
         "Field_1": "HOLLAND-BUKIT TIMAH",
         "Winning_Party": "PAP",
+        "Candidate(s)": "EDWARD CHIA BING HUI, DE SOUZA CHRISTOPHER, SIM ANN, VIVIAN BALAKRISHNAN",
         "Votes": 71218,
-        "Percentage": 66.36
+        "Percentage": 66.36,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53123,8 +53171,10 @@
         "FID": 24,
         "Field_1": "PASIR RIS-PUNGGOL",
         "Winning_Party": "PAP",
+        "Candidate(s)": "JANIL PUTHUCHEARY, SHARAEL TAHA, DESMOND TAN, TEO CHEE HEAN, YEO WAN LING",
         "Votes": 100932,
-        "Percentage": 64.16
+        "Percentage": 64.16,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55897,8 +55947,10 @@
         "FID": 25,
         "Field_1": "EAST COAST",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHERYL CHAN WEI LING, HENG SWEE KEAT, MOHD MALIKI BIN OSMAN, TAN KIAT HOW, TAN SOON NEO JESSICA",
         "Votes": 61144,
-        "Percentage": 53.39
+        "Percentage": 53.39,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78229,8 +78281,10 @@
         "FID": 26,
         "Field_1": "ANG MO KIO",
         "Winning_Party": "PAP",
+        "Candidate(s)": "DARRYL DAVID, GAN THIAM POH, LEE HSIEN LOONG, NADIA AHMAD SAMDIN, NG LING LING",
         "Votes": 124597,
-        "Percentage": 71.91
+        "Percentage": 71.91,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81421,8 +81475,10 @@
         "FID": 27,
         "Field_1": "MARSILING-YEW TEE",
         "Winning_Party": "PAP",
+        "Candidate(s)": "HANY SOH HUI BIN, LAWRENCE WONG, ALEX YAM ZIMING, ZAQY MOHAMAD",
         "Votes": 69813,
-        "Percentage": 63.18
+        "Percentage": 63.18,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83283,8 +83339,10 @@
         "FID": 28,
         "Field_1": "CHUA CHU KANG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "GAN KIM YONG, LOW YEN LING, DON WEE, ZHULKARNAIN ABDUL RAHIM",
         "Votes": 59554,
-        "Percentage": 58.64
+        "Percentage": 58.64,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88889,8 +88947,10 @@
         "FID": 29,
         "Field_1": "NEE SOON",
         "Winning_Party": "PAP",
+        "Candidate(s)": "DERRICK GOH SOON HEE, K. SHANMUGAM, MUHAMMAD FAISHAL IBRAHIM, NG KOK KWANG,  LOUIS, CARRIE TAN HUIMIN",
         "Votes": 86308,
-        "Percentage": 61.9
+        "Percentage": 61.9,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91919,8 +91979,10 @@
         "FID": 30,
         "Field_1": "SEMBAWANG",
         "Winning_Party": "PAP",
+        "Candidate(s)": "LIM WEE KIAK, MARIAM JAAFAR, ONG YE KUNG, POH LI SAN, VIKRAM NAIR",
         "Votes": 94176,
-        "Percentage": 67.29
+        "Percentage": 67.29,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "MultiPolygon",

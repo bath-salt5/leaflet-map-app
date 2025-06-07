@@ -15,6 +15,7 @@
         "INC_CRC": "0FDBB6560D96A644",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Fong Jen Arthur, Foo Chee Keng Cedric, Ho Geok Choo Madeleine, Lim Hng Kiang, Iswaran S",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -2115,8 +2116,10 @@
         "INC_CRC": "4863B2A964FCA9AD",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Ahmad Magad, Chong You Fook Charles, Low Penny, Michael Palmer, Teo Chee Hean, Teo Ser Luck",
         "Votes": 113322,
-        "Percentage": 68.7
+        "Percentage": 68.7,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -3354,8 +3357,10 @@
         "INC_CRC": "9B9BE379C720CE64",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Ong Ah Heng",
         "Votes": 14211,
-        "Percentage": 65.37
+        "Percentage": 65.37,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -3748,8 +3753,10 @@
         "INC_CRC": "2CDAD57922F2D684",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Abdullah Tarmugi, Lee Yi Shyan, Lim Siang Keat Raymond, S Jayakumar, Tan Soon Neo Jessica",
         "Votes": 66931,
-        "Percentage": 63.86
+        "Percentage": 63.86,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -5007,8 +5014,10 @@
         "INC_CRC": "DAF0BC6663862002",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Inderjit Singh, Lam Pin Min, Lee Bee Wah, Lee Hsien Loong, Sadasivan Balaji, Wee Siew Kim",
         "Votes": 96636,
-        "Percentage": 66.14
+        "Percentage": 66.14,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -7506,6 +7515,7 @@
         "INC_CRC": "6E37D4C7A068E0FE",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Ang Mong Seng, Khor Lean Suan Amy, Yeo Cheow Tong, Yeo Khirn Hai Alvin, Zaqy B Mohamad",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -10321,8 +10331,10 @@
         "INC_CRC": "EB09F40B8E79400A",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Hawazi Daipi, Khaw Boon Wan, Ellen Lee Geck Hoon, Lim Wee Kiak, Mohd Maliki Osman, Shanmugam K",
         "Votes": 130170,
-        "Percentage": 76.7
+        "Percentage": 76.7,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -11595,6 +11607,7 @@
         "INC_CRC": "2E961C555005BF46",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Christopher De Souza, Foo Yee Shoon, Liang Eng Hwa, Lim Swee Say, Vivian Balakrishnan",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -15372,8 +15385,10 @@
         "INC_CRC": "60FDD5B85CD33B89",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Seng Han Thong",
         "Votes": 15726,
-        "Percentage": 68.28
+        "Percentage": 68.28,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -15821,8 +15836,10 @@
         "INC_CRC": "14E7FE7A913098D2",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Ho Peng Kee",
         "Votes": 20949,
-        "Percentage": 68.72
+        "Percentage": 68.72,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -16405,8 +16422,10 @@
         "INC_CRC": "1D52C5640231852C",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Lim Hwee Hua, Cynthia Phua, Yeo Guat Kwang, George Yong-Boon Yeo, Zainul Abidin Rasheed",
         "Votes": 74843,
-        "Percentage": 56.09
+        "Percentage": 56.09,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -18296,8 +18315,10 @@
         "INC_CRC": "6E9B56FD18739765",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Chan Soo Sen",
         "Votes": 12226,
-        "Percentage": 65.01
+        "Percentage": 65.01,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -18910,8 +18931,10 @@
         "INC_CRC": "3259488B29FB982A",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Matthias Yao Chih",
         "Votes": 13184,
-        "Percentage": 68.48
+        "Percentage": 68.48,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -19254,8 +19277,10 @@
         "INC_CRC": "5DF067F5D952C2DD",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Heng Chee How, Lee Boon Yang, Lily Neo, Phua Lay Peng Denise, Yaacob Ibrahim",
         "Votes": 58913,
-        "Percentage": 69.26
+        "Percentage": 69.26,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -21363,8 +21388,10 @@
         "INC_CRC": "A4B6E3EE60CF5423",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "SDA",
+        "Candidate(s)": "Chiam See Tong",
         "Votes": 8245,
-        "Percentage": 55.82
+        "Percentage": 55.82,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -21952,6 +21979,7 @@
         "INC_CRC": "FE6B116C93F7BE0C",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Fu Hai Yien Grace, Halimah Binte Yacob, Lim Boon Heng, Ong Chit Chung, Tharman Shanmugaratnam",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -23422,6 +23450,7 @@
         "INC_CRC": "EBA8881786C33D9B",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Baey Yam Keng, Indranee Thurai Rajah, Koo Tsai Kee, Lee Kuan Yew, Lui Tuck Yew, Tan Chin Siong",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -25697,6 +25726,7 @@
         "INC_CRC": "B6FEA533DE380295",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Hri Kumar Sangaran, Ng Eng Hen, Josephine Teo, Wong Kan Seng, Zainudin Bin Nordin",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -27132,8 +27162,10 @@
         "INC_CRC": "E079084D2D526EF4",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Mah Bow Tan, Masagos Zulkifli B M M, Ng Phek Hoong Irene, Ong Kian Min, Sin Boon Ann",
         "Votes": 80376,
-        "Percentage": 68.51
+        "Percentage": 68.51,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -27736,8 +27768,10 @@
         "INC_CRC": "76D398F0F0A072C8",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "WP",
+        "Candidate(s)": "Low Thia Khiang",
         "Votes": 13989,
-        "Percentage": 62.74
+        "Percentage": 62.74,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -28140,6 +28174,7 @@
         "INC_CRC": "5ACA0AC16E0135D1",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Fatimah Binte Abdul Lateef, Goh Chok Tong, Lim Biow Chuan, Muhammad Faishal bin Ibrahim Khan Surattee, Ong Seh Hong, Seah Kian Peng",
         "Votes": 0,
         "Percentage": 0,
         "Status": "Uncontested"
@@ -30480,8 +30515,10 @@
         "INC_CRC": "8420ABE388E8CC1E",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Teo Ho Pin",
         "Votes": 21652,
-        "Percentage": 77.19
+        "Percentage": 77.19,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -30849,8 +30886,10 @@
         "INC_CRC": "2E7D1BEB3A7C1210",
         "FMEL_UPD_D": "20090428105814",
         "Winning_Party": "PAP",
+        "Candidate(s)": "Gan Kim Yong",
         "Votes": 14156,
-        "Percentage": 60.37
+        "Percentage": 60.37,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",

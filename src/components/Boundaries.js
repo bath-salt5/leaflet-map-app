@@ -49,6 +49,7 @@ const Boundary = ({ data, label = 'Boundary' }) => {
           <h4>{feature.properties.Name || 'Area Info'}</h4>
           <ul style={{ paddingLeft: '1em' }}>
             <li><strong>Winning Party:</strong> {feature.properties.Winning_Party}</li>
+            <li><strong>Candidates:</strong> {feature.properties["Candidate(s)"]}</li>
             <li><strong>Vote Percentage:</strong> {feature.properties.Percentage}%</li>
             <li><strong>Status: </strong>{feature.properties.Status || 'Contested'}</li>
           </ul>

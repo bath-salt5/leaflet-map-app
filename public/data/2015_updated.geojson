@@ -16,8 +16,10 @@
         "INC_CRC": "A6F85B435F5CDA8D",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "WP",
+        "Candidate(s)": "PNG ENG HUAT",
         "Votes": 13027,
-        "Percentage": 57.66
+        "Percentage": 57.66,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -515,8 +517,10 @@
         "INC_CRC": "F260F1DF2EAA33A9",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "AMY KHOR LEAN SUAN",
         "Votes": 19628,
-        "Percentage": 74.76
+        "Percentage": 74.76,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -1849,8 +1853,10 @@
         "INC_CRC": "59D1ADB532F37979",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHRISTOPHER DE SOUZA, LIANG ENG HWA, SIM ANN, VIVIAN BALAKRISHNAN",
         "Votes": 62786,
-        "Percentage": 66.6
+        "Percentage": 66.6,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -6175,8 +6181,10 @@
         "INC_CRC": "8AAA8D073282E2E6",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "HENG CHEE HOW, LILY NEO, DENISE PHUA LAY PENG, YAACOB IBRAHIM",
         "Votes": 63644,
-        "Percentage": 67.75
+        "Percentage": 67.75,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -8534,8 +8542,10 @@
         "INC_CRC": "25F3166BC211880E",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "K SHANMUGAM, KWEK HIAN CHUAN, LEE BEE WAH, MUHAMMAD FAISHAL IBRAHIM, NG KOK KWANG LOUIS",
         "Votes": 82287,
-        "Percentage": 66.83
+        "Percentage": 66.83,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -10958,8 +10968,10 @@
         "INC_CRC": "8298D32B826A5881",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHARLES CHONG YOU FOOK",
         "Votes": 16977,
-        "Percentage": 51.77
+        "Percentage": 51.77,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -11407,8 +11419,10 @@
         "INC_CRC": "20CC8109497AD9FE",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CEDRIC FOO CHEE KENG",
         "Votes": 18017,
-        "Percentage": 76.35
+        "Percentage": 76.35,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -11856,8 +11870,10 @@
         "INC_CRC": "1646C06CB471D092",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "JANIL PUTHUCHEARY, NG CHEE MENG, SUN XUELING, TEO CHEE HEAN, TEO SER LUCK, ZAINAL BIN SAPARI",
         "Votes": 125166,
-        "Percentage": 72.89
+        "Percentage": 72.89,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -13210,8 +13226,10 @@
         "INC_CRC": "832012FC80E7D8A9",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "SITOH YIH PIN",
         "Votes": 10602,
-        "Percentage": 66.39
+        "Percentage": 66.39,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -13804,8 +13822,10 @@
         "INC_CRC": "B1220945C87333A0",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "TAN CHIN SIONG",
         "Votes": 20246,
-        "Percentage": 77.25
+        "Percentage": 77.25,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -14463,8 +14483,10 @@
         "INC_CRC": "2616C870ECA08891",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "AMRIN AMIN, KHAW BOON WAN, LIM WEE KIAK, ONG YE KUNG, VIKRAM NAIR",
         "Votes": 96718,
-        "Percentage": 72.28
+        "Percentage": 72.28,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -16137,8 +16159,10 @@
         "INC_CRC": "54C1042ECE7C5B33",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "LAM PIN MIN",
         "Votes": 17586,
-        "Percentage": 62.13
+        "Percentage": 62.13,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -16591,8 +16615,10 @@
         "INC_CRC": "69B6EC9DC1F9545F",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "BAEY YAM KENG, CHENG LI HUI, DESMOND CHOO PEY CHING, HENG SWEE KEAT, MASAGOS ZULKIFLI",
         "Votes": 95305,
-        "Percentage": 72.07
+        "Percentage": 72.07,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -17265,8 +17291,10 @@
         "INC_CRC": "E2F2C4995BA6A36D",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHAN CHUN SING, CHIA SHI-LU, INDRANEE THURAI RAJAH, JOAN PEREIRA, MELVIN YONG YIK CHYE",
         "Votes": 90635,
-        "Percentage": 77.71
+        "Percentage": 77.71,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -20009,8 +20037,10 @@
         "INC_CRC": "F4D7255652CDEB2F",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "FOO MEE HAR, LIM HNG KIANG, S ISWARAN, PATRICK TAY TECK GUAN",
         "Votes": 71214,
-        "Percentage": 78.57
+        "Percentage": 78.57,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -22703,8 +22733,10 @@
         "INC_CRC": "F53D5507C8899036",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "GRACE FU HAI YIEN",
         "Votes": 15324,
-        "Percentage": 73.55
+        "Percentage": 73.55,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -23287,8 +23319,10 @@
         "INC_CRC": "A0E59043D5F18D9A",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "ANG WEI NENG, DESMOND LEE, RAHAYU BINTE MAHZAM, THARMAN SHANMUGARATNAM, TAN WU MENG",
         "Votes": 95228,
-        "Percentage": 79.29
+        "Percentage": 79.29,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -25651,8 +25685,10 @@
         "INC_CRC": "BA31A3CAE8CBD484",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "FATIMAH BINTE ABDUL LATEEF, GOH CHOK TONG, SEAH KIAN PENG, TAN CHUAN-JIN, TONG CHUN FAI EDWIN CHARLES",
         "Votes": 85138,
-        "Percentage": 64.07
+        "Percentage": 64.07,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -27240,8 +27276,10 @@
         "INC_CRC": "7CF1B668F700B4E2",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "LIM BIOW CHUAN",
         "Votes": 15331,
-        "Percentage": 71.86
+        "Percentage": 71.86,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -28274,8 +28312,10 @@
         "INC_CRC": "52B177763050C78E",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "TIN PEI LING",
         "Votes": 17251,
-        "Percentage": 65.6
+        "Percentage": 65.6,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -28673,8 +28713,10 @@
         "INC_CRC": "EE071450B9234645",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "HALIMAH  YACOB, ONG TENG KOON, LAWRENCE WONG, ALEX YAM ZIMING",
         "Votes": 68546,
-        "Percentage": 68.73
+        "Percentage": 68.73,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -30132,8 +30174,10 @@
         "INC_CRC": "CBCC7F0D202A808B",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "WP",
+        "Candidate(s)": "CHEN SHOW MAO, SYLVIA LIM, LOW THIA KHIANG, MD FAISAL BIN ABDUL MANAP, PRITAM SINGH",
         "Votes": 70050,
-        "Percentage": 50.96
+        "Percentage": 50.96,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -32346,8 +32390,10 @@
         "INC_CRC": "D70FD12F115B988C",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "ANG HIN KEE, DAVID DARRYL WILSON, GAN THIAM POH, INTAN AZURA BINTE MOKHTAR, KOH POH KOON, LEE HSIEN LOONG",
         "Votes": 135316,
-        "Percentage": 78.64
+        "Percentage": 78.64,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -34080,8 +34126,10 @@
         "INC_CRC": "C9C672B0A67B7DF4",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "DAVID ONG KIM HUAT",
         "Votes": 18234,
-        "Percentage": 73.02
+        "Percentage": 73.02,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -34564,8 +34612,10 @@
         "INC_CRC": "0666283E37C18BEE",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "TEO HO PIN",
         "Votes": 21954,
-        "Percentage": 68.38
+        "Percentage": 68.38,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -34978,8 +35028,10 @@
         "INC_CRC": "9E70272EC26EC52A",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHEE HONG TAT, CHONG KEE HIONG, NG ENG HEN, SAKTIANDI BIN SUPAAT, JOSEPHINE TEO",
         "Votes": 86701,
-        "Percentage": 73.59
+        "Percentage": 73.59,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -36942,8 +36994,10 @@
         "INC_CRC": "BC7AFC6C8D8A94A6",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "GAN KIM YONG, LOW YEN LING, YEE CHIA HSING, ZAQY MOHAMAD",
         "Votes": 84850,
-        "Percentage": 76.91
+        "Percentage": 76.91,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -40106,8 +40160,10 @@
         "INC_CRC": "0DFCD71FD5618CFC",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "LEE YI SHYAN, LIM SWEE SAY, MOHD MALIKI BIN OSMAN, TAN SOON NEO JESSICA",
         "Votes": 55093,
-        "Percentage": 60.73
+        "Percentage": 60.73,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
@@ -41425,8 +41481,10 @@
         "INC_CRC": "B5E00D6BEB532F82",
         "FMEL_UPD_D": "20150916151419",
         "Winning_Party": "PAP",
+        "Candidate(s)": "CHERYL CHAN WEI LING",
         "Votes": 12417,
-        "Percentage": 57.5
+        "Percentage": 57.5,
+        "Status": "Contested"
       },
       "geometry": {
         "type": "Polygon",
